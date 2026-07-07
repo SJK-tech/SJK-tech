@@ -42,8 +42,6 @@ Android Studio • Unity • Git • GitHub • MongoDB • Express • React �
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Contact
+email: shreeya.jk@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SJK-tech&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SJK-tech&layout=compact&theme=tokyonight)
